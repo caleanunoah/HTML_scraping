@@ -1,0 +1,12 @@
+https://www.theweathernetwork.com/ca/weather/british-columbia/vancouver
+https://www.theweathernetwork.com/ca/weather/british-columbia/surrey
+https://www.theweathernetwork.com/ca/weather/alberta/calgary
+https://www.theweathernetwork.com/ca/weather/nova-scotia/halifax
+https://www.theweathernetwork.com/ca/weather/saskatchewan/regina
+https://www.theweathernetwork.com/ca/weather/quebec/montreal
+https://www.theweathernetwork.com/ca/weather/yukon/whitehorse
+https://www.theweathernetwork.com/ca/weather/northwest-territories/yellowknife
+https://www.theweathernetwork.com/ca/weather/manitoba/winnipeg
+https://www.theweathernetwork.com/ca/weather/prince-edward-island/charlottetown
+https://www.theweathernetwork.com/ca/weather/nunavut/iqaluit
+
